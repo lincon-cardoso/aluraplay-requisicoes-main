@@ -71,12 +71,11 @@
       "id": 10
     },
     {
-      "titulo": "Encontro de comunidade Alura 2022",
-      "descricao": "6 mil visualizações",
-      "url": "https://www.youtube.com/embed/watch?v=I2dANcg9u6U",
-      "imagem": "https://purr.objects-us-east-1.dreram.io/i/OoNx6.jpg",
+      "titulo": "Conhecendo NestJS | #AluraMais",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/YHpG6t91oW8",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 11
     }
-
   ]
 }
